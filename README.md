@@ -8,3 +8,5 @@ Step 1: Grab book links from http://www.bookbookgoose.com/
 Step 2: Access Amazon and grab data
 
 Step 3: Write to Excel
+
+**NOTE: Requires Amazon API keys to be stored in file in same directory called api_key.py**
